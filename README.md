@@ -1,6 +1,6 @@
 ### Hi, my name is Aeden! 👋
 
-I'm a code monkey [@verifiedfirst](https://github.com/VerifiedFirst) 💚 💻 🐒
+I'm a code monkey [@verifiedfirst](https://github.com/VerifiedFirst) 💚
 
 ---
 
